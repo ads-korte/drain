@@ -2,7 +2,7 @@
   <h1>🕷𝐌𝐔𝐋𝐓𝐈𝐂𝐇𝐀𝐈𝐍 𝐃𝐑𝐀𝐈𝐍𝐄𝐑 𝐀.𝐃.𝐒 𝐛𝐲 𝐊𝐎𝐑𝐓𝐄 𝐯𝟏.𝟒</h1>
 </div>
 
-![1](https://github.com/ads-korte/drain/1.jpg)
+![1](https://github.com/ads-korte/drain/blob/main/1.jpg)
 ---
 [YOU CAN GET IT IN OUR TELEGRAM SHOP BOT](https://t.me/all_drainers_store_bot?start=c_2223578) - https://t.me/all_drainers_store_bot
 <div align="center">
